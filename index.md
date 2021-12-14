@@ -16,8 +16,8 @@ page_sections:
   - link: https://twitter.com/xbuddhacoin
     link_text: Twitter
   cta:
-    url: ''
-    button_text: ''
+    url: https://sologenic.org/trade?market=XRP%2F5842756464686100000000000000000000000000%2BrJRE6wwTSsPe5A7rRC2R3v2FbPVY7rbxuN&network=mainnet
+    button_text: TL Sologenic
 - template: hero-banner-w-image
   block: hero-2
   slug: features
