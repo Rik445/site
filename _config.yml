@@ -3,8 +3,8 @@ author: xBuddha team
 email: support@forestry.io
 description: >-
   xBuddha xBuddha.
-baseurl: "/site" # the subpath of your site, e.g. /blog
-url: "" # your site's origin, e.g. https://forestry.io
+baseurl: "/site"
+url: ""
 
 # Build settings
 defaults:
