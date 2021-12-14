@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
+  - link: https://xumm.community/?issuer=rJRE6wwTSsPe5A7rRC2R3v2FbPVY7rbxuN&currency=XBuddha&limit=50000000000
+    link_text: Xumm
   - link: https://discord.gg/HFy5pXrK
     link_text: Discord
   - link: https://t.me/buddhafinance
