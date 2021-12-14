@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: https://t.me/buddhafinance
     link_text: Telegram
-  - link: https://www.twitter.com/
+  - link: https://twitter.com/xbuddhacoin
     link_text: Twitter
   cta:
     url: ''
