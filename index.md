@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
+  - link: https://t.me/buddhafinance
+    link_text: Telegram
   - link: https://www.twitter.com/
     link_text: Twitter
   cta:
