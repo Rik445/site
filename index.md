@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2021/12/14/xbuddha.jpg"
   navigation:
   - link: https://xumm.community/?issuer=rJRE6wwTSsPe5A7rRC2R3v2FbPVY7rbxuN&currency=XBuddha&limit=50000000000
-    link_text: Xumm
+    link_text: Set your TrustLine
   - link: https://discord.gg/HFy5pXrK
     link_text: Discord
   - link: https://t.me/buddhafinance
