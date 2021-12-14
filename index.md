@@ -7,8 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "#social"
-    link_text: Social
+  - link: https://www.twitter.com/
+    link_text: Twitter
   cta:
     url: ''
     button_text: ''
