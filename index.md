@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
+  - link: https://discord.gg/HFy5pXrK
+    link_text: Discord
   - link: https://t.me/buddhafinance
     link_text: Telegram
   - link: https://twitter.com/xbuddhacoin
