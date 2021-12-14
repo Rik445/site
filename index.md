@@ -17,7 +17,7 @@ page_sections:
     link_text: Twitter
   cta:
     url: https://sologenic.org/trade?market=XRP%2F5842756464686100000000000000000000000000%2BrJRE6wwTSsPe5A7rRC2R3v2FbPVY7rbxuN&network=mainnet
-    button_text: TL Sologenic
+    button_text: BUY on Sologenic
 - template: hero-banner-w-image
   block: hero-2
   slug: features
