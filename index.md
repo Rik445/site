@@ -37,6 +37,6 @@ page_sections:
   col_2: bla
   col_3: blo
   col_4: blu
-  image: ''
+  image: "/uploads/2021/12/14/xbuddha.jpg"
 
 ---
