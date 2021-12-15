@@ -26,7 +26,7 @@ page_sections:
     url: https://xumm.community/?issuer=rJRE6wwTSsPe5A7rRC2R3v2FbPVY7rbxuN&currency=XBuddha&limit=50000000000
     button_text: Set TrustLine
   image:
-    image: "/uploads/2021/12/14/xbuddha.jpg"
+    image: "/uploads/2021/12/15/2021-12-07-18-00-06.png"
     alt_text: Product Shot
   background_image: "/uploads/2021/12/14/1500x500.jpg"
 - template: 4-column-footer
