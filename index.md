@@ -35,5 +35,14 @@ page_sections:
   col_3: blo
   col_4: blu
   image: "/uploads/2021/12/14/xbuddha.jpg"
+- template: simple-footer
+  block: footer-1
+  content: XBuddha is a token on the XRPL and is not a security or commodity. We make
+    no promises as to what XBuddha is or what XBuddha will do. Price reflection on
+    XBuddha is based directly on what humanity has chosen it to be. XBuddha performs
+    at this time no core marketable products or functions to be a commodity and has
+    no promises of profit or gains off others' work. 1 XBuddha = 1 XBuddha. All claims
+    made by XBuddha are not investment advice and we clearly outlined that it is very
+    possibile this token never has any real valye or function/product.
 
 ---
