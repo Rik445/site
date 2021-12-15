@@ -23,8 +23,8 @@ page_sections:
   content: your nice coin :)
   cta:
     enabled: false
-    url: ''
-    button_text: 'See on GitHub '
+    url: https://xumm.community/?issuer=rJRE6wwTSsPe5A7rRC2R3v2FbPVY7rbxuN&currency=XBuddha&limit=50000000000
+    button_text: Set TrustLine
   image:
     image: "/uploads/2021/12/14/xbuddha.jpg"
     alt_text: Product Shot
