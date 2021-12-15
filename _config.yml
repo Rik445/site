@@ -3,8 +3,8 @@ title: xBuddha - STAY ZEN, STAY xBuddha!
 author: xBuddha devs team
 email: support@xbuddha.co
 description: xBuddha - STAY ZEN, STAY xBuddha!
-baseurl: "/site"
-url: ''
+baseurl: ""
+url: 'https://www.xbuddha.co/'
 defaults:
 - scope:
     path: ''
