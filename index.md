@@ -20,7 +20,9 @@ page_sections:
   block: hero-2
   slug: features
   headline: STAY ZEN, STAY xBuddha!
-  content: your nice coin :)
+  content: 'xBuddha is a cryptocurrency created on the XRPL network designed to have
+    different use cases: From a global payment method (Fast, cheap and secure) to
+    a payment method for the Buddha ecosystem.'
   cta:
     enabled: true
     url: https://xumm.community/?issuer=rJRE6wwTSsPe5A7rRC2R3v2FbPVY7rbxuN&currency=XBuddha&limit=50000000000
