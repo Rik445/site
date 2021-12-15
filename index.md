@@ -76,10 +76,11 @@ page_sections:
   slug: ''
 - template: 4-column-footer
   block: footer-2
-  col_2: bla
+  col_2: <a href="https://discord.gg/HFy5pXrK" title="Discord">Discord</a><br><a href="https://t.me/buddhafinance"
+    title="Telegram">Telegram</a><br><a href="https://twitter.com/xbuddhacoin" title="Twitter">Twitter</a>
   col_3: blo
   col_4: blu
-  image: "/uploads/2021/12/14/xbuddha.jpg"
+  image: "/uploads/2021/12/15/2021-12-07-17-54-51.png"
 - template: simple-footer
   block: footer-1
   content: XBuddha is a token on the XRPL and is not a security or commodity. We make
