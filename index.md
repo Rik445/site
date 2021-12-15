@@ -70,7 +70,7 @@ page_sections:
     be our mission to support these associations, so concrete progress will be made
     in this direction.
   media:
-    image: "/uploads/2021/12/15/2021-12-06-12-11-18.jpeg"
+    image: "/uploads/2021/12/15/2021-12-06-12-11-30.jpeg"
     alt_text: ''
   headline: ''
   slug: ''
