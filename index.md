@@ -22,7 +22,7 @@ page_sections:
   headline: xBuddha
   content: your nice coin :)
   cta:
-    enabled: false
+    enabled: true
     url: https://xumm.community/?issuer=rJRE6wwTSsPe5A7rRC2R3v2FbPVY7rbxuN&currency=XBuddha&limit=50000000000
     button_text: Set TrustLine
   image:
