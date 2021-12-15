@@ -39,6 +39,17 @@ page_sections:
   background_image: "/uploads/2021/12/15/buddha-wallpaper-1024x683.jpg"
 - template: content-feature
   block: feature-1
+  media_alignment: Right
+  content: 'xBuddha is a cryptocurrency created on the XRPL network designed to have
+    different use cases: From a global payment method (Fast, cheap and secure) to
+    a payment method for the Buddha ecosystem.'
+  media:
+    image: "/uploads/2021/12/15/2021-12-06-12-11-18.jpeg"
+    alt_text: ''
+  headline: ''
+  slug: ''
+- template: content-feature
+  block: feature-1
   media_alignment: Left
   content: With a fixed supply of only 50 billion, we want to create utilities and
     value around the token, so that the utility reflects the long-term benefit on
@@ -47,17 +58,6 @@ page_sections:
     of the people, for the people, of the freedom!
   media:
     image: "/uploads/2021/12/15/2021-12-05-22-11-42.jpeg"
-    alt_text: ''
-  headline: ''
-  slug: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  content: 'xBuddha is a cryptocurrency created on the XRPL network designed to have
-    different use cases: From a global payment method (Fast, cheap and secure) to
-    a payment method for the Buddha ecosystem.'
-  media:
-    image: "/uploads/2021/12/15/2021-12-06-12-11-18.jpeg"
     alt_text: ''
   headline: ''
   slug: ''
