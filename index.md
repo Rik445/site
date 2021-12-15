@@ -20,9 +20,15 @@ page_sections:
   block: hero-2
   slug: features
   headline: STAY ZEN, STAY xBuddha!
-  content: 'xBuddha is a cryptocurrency created on the XRPL network designed to have
-    different use cases: From a global payment method (Fast, cheap and secure) to
-    a payment method for the Buddha ecosystem.'
+  content: In this era of uncertainty, mental discomforts and problems are the order
+    of the day, which is why our team will be strongly committed to supporting the
+    main scientific associations that fight against different types of mental disorders.
+    We believe that science has not yet reached its maximum potential to better treat
+    these different types of mental disorders, for this reason we believe that a scientific
+    / western approach integrated with an oriental approach (deep meditation and other
+    therapies) can greatly improve people's lives by awakening awareness, and it will
+    be our mission to support these associations, so concrete progress will be made
+    in this direction.
   cta:
     enabled: true
     url: https://xumm.community/?issuer=rJRE6wwTSsPe5A7rRC2R3v2FbPVY7rbxuN&currency=XBuddha&limit=50000000000
