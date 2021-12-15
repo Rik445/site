@@ -64,7 +64,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: ''
+  content: We plan to create a rich NFT’s marketplace, a merchandise fan store where
+    you can use the token to buy your favorite community items , a custom xBuddha
+    dex and a meditation gaming app. We want to create a sustainable and multifaceted
+    ecosystem, we want to increase the well-being of people's mental health with strategic
+    partnerships and charity programs.
   media:
     image: "/uploads/2021/12/15/2021-12-06-12-11-30.jpeg"
     alt_text: ''
