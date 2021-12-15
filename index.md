@@ -5,7 +5,7 @@ date: 2017-12-13T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/12/15/2021-12-07-18-00-06.png"
+  logo: "/uploads/2021/12/14/xbuddha.jpg"
   navigation:
   - link: https://discord.gg/HFy5pXrK
     link_text: Discord
