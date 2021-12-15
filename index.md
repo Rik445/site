@@ -28,7 +28,7 @@ page_sections:
   image:
     image: "/uploads/2021/12/15/2021-12-07-18-00-06.png"
     alt_text: Product Shot
-  background_image: "/uploads/2021/12/14/1500x500.jpg"
+  background_image: "/uploads/2021/12/15/buddha-wallpaper-1024x683.jpg"
 - template: 4-column-footer
   block: footer-2
   col_2: bla
