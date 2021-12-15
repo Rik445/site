@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-12-13 23:00:00 +0000
+date: 2017-12-13T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -34,7 +34,7 @@ page_sections:
     url: https://xumm.community/?issuer=rJRE6wwTSsPe5A7rRC2R3v2FbPVY7rbxuN&currency=XBuddha&limit=50000000000
     button_text: Set TrustLine
   image:
-    image: "/uploads/2021/12/15/2021-12-07-18-00-06.png"
+    image: "/uploads/2021/12/14/xbuddha.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2021/12/15/buddha-wallpaper-1024x683.jpg"
 - template: content-feature
