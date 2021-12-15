@@ -60,15 +60,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: In this era of uncertainty, mental discomforts and problems are the order
-    of the day, which is why our team will be strongly committed to supporting the
-    main scientific associations that fight against different types of mental disorders.  We
-    believe that science has not yet reached its maximum potential to better treat
-    these different types of mental disorders, for this reason we believe that a scientific
-    / western approach integrated with an oriental approach (deep meditation and other
-    therapies) can greatly improve people's lives by awakening awareness, and it will
-    be our mission to support these associations, so concrete progress will be made
-    in this direction.
+  content: ''
   media:
     image: "/uploads/2021/12/15/2021-12-06-12-11-30.jpeg"
     alt_text: ''
