@@ -19,7 +19,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: xBuddha
+  headline: STAY ZEN, STAY xBuddha!
   content: your nice coin :)
   cta:
     enabled: true
