@@ -39,7 +39,7 @@ page_sections:
   background_image: "/uploads/2021/12/15/buddha-wallpaper-1024x683.jpg"
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   content: With a fixed supply of only 50 billion, we want to create utilities and
     value around the token, so that the utility reflects the long-term benefit on
     the price.  We aim for the listing of reputable exchanges such as bitrue and many
